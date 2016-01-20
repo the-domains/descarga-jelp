@@ -1,0 +1,28 @@
+name: Descarga Jelp
+favicon: null
+layout_spectrum: 0.9568795650266111
+typography_spectrum: 0.31642379774712026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.23704104381613433
+  lightness: 0.3379526687785983
+  saturation: 0.4567733430303633
+  rhythmicContrast: 0.6862630038522184
+purpose: []
